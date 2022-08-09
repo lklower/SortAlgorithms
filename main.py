@@ -5,4 +5,3 @@ print('before sort: ', l, end='\n')
 
 l_sorted: list = sa.quick_sort(data=l)
 print('after sort: ', l_sorted, end='\n')
-
